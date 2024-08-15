@@ -1,4 +1,4 @@
-# Segunda entrega - IA: Generación de Prompts
+# Enterga final - IA: Generación de Prompts
 
 ### Alumna
 - Agustina Constanza Rodríguez
